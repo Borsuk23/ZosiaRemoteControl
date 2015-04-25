@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ZosiaRemoteControl</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_enable_discoverability">Enable Discoverability</string>
+    <string name="title_activity_control_panel">ControlPanel</string>
+</resources>
